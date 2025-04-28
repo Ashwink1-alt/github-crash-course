@@ -1,1 +1,1 @@
-This is a sample working on github
+This is a demo repository for practicing Git & GitHub.
